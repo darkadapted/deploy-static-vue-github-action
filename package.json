@@ -46,6 +46,5 @@
       "vue-cli-service lint",
       "git add"
     ]
-  },
-  "homepage": "https://github.com/darkadapted/deploy-static-vue-github-action"
+  }
 }
